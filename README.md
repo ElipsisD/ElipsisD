@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dima</h1>
 <h3 align="center">A passionate Python backend developer from Siberia</h3>
 
-- 🔭 I’m currently working on **Autoworld**
+- 🔭 I’m currently working on **django_auto(Autoworld)**
 
 - 🌱 I’m currently learning **Django**
 
